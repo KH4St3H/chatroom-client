@@ -1,5 +1,5 @@
 ## About
-### Simple gui client for [server](https://github.com/KH4St3H/chatroom-server) project
+### Simple gui client for [chatroom-server](https://github.com/KH4St3H/chatroom-server) project
 
 ## How to run
 1. Install required packages
